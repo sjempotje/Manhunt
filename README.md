@@ -1,4 +1,7 @@
 # Manhunt
+
+fork!
+
 Advanced Manhunt plugin like Dream, with twists to make it even more fun!
 
 ![Manhunt by GCNT](https://gaagjescraft.net/inc/img/spigot/manhunt/header.png)
